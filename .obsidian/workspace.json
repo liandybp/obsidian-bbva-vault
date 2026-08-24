@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "9020afdb66744c98",
+    "type": "split",
+    "children": [
+      {
+        "id": "7610b8f4cee4629c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9a4184837062f7c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b86a2af6f9e3b808",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5cc61283b059e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3553905044d6e40c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "917382e6062e02fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "e80b41e7cfcf5433",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.00390625
+  },
+  "right": {
+    "id": "eb77f0adb5709828",
+    "type": "split",
+    "children": [
+      {
+        "id": "f243223965d2e323",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bae187f1f3439fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "b370d7343f28ca6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "c60e0f8124c8428b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "f9a4184837062f7c",
+  "lastOpenFiles": [
+    "INDEX_BBVA.md",
+    "daily/2026-08-21.md",
+    "gl/proyectos/categ-gl-git/contexto/CAMBIOS_RECIENTES.md",
+    "gl/proyectos/categ-gl-git/contexto/COPILOT_INSTRUCTIONS.md",
+    "gl/proyectos/categ-gl-git/contexto",
+    "gl/proyectos/categ-gl-git/ESTADO.md",
+    "gl/proyectos/categ-gl-git/README.md",
+    "gl/proyectos/categ-gl-git",
+    "gl/proyectos",
+    "gl",
+    "kpfm/proyectos/kpfm-etiquetas/decisiones/RESUMEN_EJECUTIVO.md",
+    "daily/2026-08-20.md",
+    "kpfm/proyectos/kpfm-etiquetas/decisiones/PROTOTIPO_LECTURA_CASCADA.md",
+    "kpfm/proyectos/kpfm-etiquetas/decisiones/LECTURA_CASCADA_CATALOGO_ENTIDADES.md",
+    "daily/2026-08-11.md",
+    "_global/copilot/NAVEGACION_RAPIDA.md",
+    "_global/copilot/VERIFICACION_ACCESO_VAULT.md",
+    "daily/2026-07-22.md",
+    "_global/copilot/ACCESO_VAULT_SETUP.md",
+    "daily/_TEMPLATE.md",
+    "daily/2026-07-20.md",
+    "daily",
+    "QUICK_START.md",
+    "SESION_FINAL_20JUL2026.md",
+    "MIGRACION_ESTRUCTURA_UUAA_20JUL2026.md",
+    "NAVIGATION.md",
+    "INDICE_VISUAL.md",
+    "kpfm/proyectos/kpfm-etiquetas/contexto/SESION_20JUL2026_RESUMEN.md",
+    "kpfm/proyectos/kpfm-etiquetas/contexto/AUDITORIA_VAULT_20JUL2026.md",
+    "kpfm/proyectos/kpfm-etiquetas/QUICK_REFERENCE.md",
+    "INDEX.md",
+    "kagr/proyectos/lib-agregador-github/decisiones",
+    "kagr/proyectos/lib-agregador-github/contexto",
+    "wumc",
+    "kpfm/proyectos/kpfm-etiquetas/referencias",
+    "kpfm/proyectos/kpfm-etiquetas/docs"
+  ]
+}
