@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wumc/README.md",
+                "file": "daily/2026-08-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-08-21"
             }
           }
         ]
@@ -154,6 +154,8 @@
   },
   "active": "f9a4184837062f7c",
   "lastOpenFiles": [
+    "ARQUITECTURA_NUEVO_VAULT.md",
+    "wumc/README.md",
     "INDEX_BBVA.md",
     "daily/2026-08-21.md",
     "gl/proyectos/categ-gl-git/contexto/CAMBIOS_RECIENTES.md",
@@ -183,8 +185,6 @@
     "INDICE_VISUAL.md",
     "kpfm/proyectos/kpfm-etiquetas/contexto/SESION_20JUL2026_RESUMEN.md",
     "kpfm/proyectos/kpfm-etiquetas/contexto/AUDITORIA_VAULT_20JUL2026.md",
-    "kpfm/proyectos/kpfm-etiquetas/QUICK_REFERENCE.md",
-    "INDEX.md",
     "kagr/proyectos/lib-agregador-github/decisiones",
     "kagr/proyectos/lib-agregador-github/contexto",
     "wumc",
